@@ -1,0 +1,4 @@
+namespace two {};
+
+[ExternalInterfaceExport="one"]
+typedef extern OneObject;
